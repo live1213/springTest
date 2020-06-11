@@ -2,3 +2,5 @@ test branch
 update v2
 update 50%
 update 99%
+update 99.5%
+update 100%
